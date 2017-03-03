@@ -1,0 +1,6 @@
+D:\10311209\lab-2-zi-chuan-chu-li-XiuXuanLiu\Lab2_hw\Lab2_hw\bin\Debug\Lab2_hw.exe.config
+D:\10311209\lab-2-zi-chuan-chu-li-XiuXuanLiu\Lab2_hw\Lab2_hw\bin\Debug\Lab2_hw.exe
+D:\10311209\lab-2-zi-chuan-chu-li-XiuXuanLiu\Lab2_hw\Lab2_hw\bin\Debug\Lab2_hw.pdb
+D:\10311209\lab-2-zi-chuan-chu-li-XiuXuanLiu\Lab2_hw\Lab2_hw\obj\Debug\Lab2_hw.csprojResolveAssemblyReference.cache
+D:\10311209\lab-2-zi-chuan-chu-li-XiuXuanLiu\Lab2_hw\Lab2_hw\obj\Debug\Lab2_hw.exe
+D:\10311209\lab-2-zi-chuan-chu-li-XiuXuanLiu\Lab2_hw\Lab2_hw\obj\Debug\Lab2_hw.pdb
